@@ -18,3 +18,6 @@ from parent to child processes.  One method (_-m 6_) uses the aio interfaces.
 
 A long-established disk I/O benchmark.  This version is a snapshot of the
 unofficial iozone-mg project that re-ported _iozone_ to Cygwin and native Windows.
+
+
+_Note: POSIX Asynchronous I/O is available in Cygwin 2.11 and later versions._
