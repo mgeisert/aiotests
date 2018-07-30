@@ -1,5 +1,5 @@
 # _aiotests_
-Test programs for Cygwin's POSIX Asynchronous I/O feature:
+Test programs for Cygwin's new POSIX Asynchronous I/O feature:
 
 - _example_
 
