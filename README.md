@@ -21,4 +21,4 @@ of the unofficial iozone-mg project that re-ported _iozone_ to Cygwin and native
 Windows.  The iozone-mg project is at https://github.com/mgeisert/iozone-mg.
 
 
-_Note: POSIX Asynchronous I/O is available in Cygwin 2.11 and later versions._
+_Note: POSIX Asynchronous I/O will be available in Cygwin 2.11 and later versions._
